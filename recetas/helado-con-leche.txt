@@ -1,4 +1,6 @@
-1.ingrediente: leche, fruta
+﻿Receta modificada:
+
+1.ingrediente: leche, fruta, maizena
 2.Preparación: 
 a- en la licuadora batir la leche con la fruta
 b- Pongalo en recipientes pequeños a congelar.
