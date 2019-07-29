@@ -2,5 +2,6 @@
 
 1.ingrediente: leche, fruta, maizena
 2.Preparación: 
-a- en la licuadora batir la leche con la fruta
+
+a- En la licuadora, batir la leche con la fruta y agregar una cucharada pequeña de maizena
 b- Pongalo en recipientes pequeños a congelar.
